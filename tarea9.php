@@ -41,7 +41,7 @@
 
     <div class="usuarios">
 
-        <h3>Usuarios</h3>
+
 
         <?php
         /**
