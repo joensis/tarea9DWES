@@ -41,13 +41,13 @@
 
     <div class="usuarios">
 
-
+        <h3>Usuarios</h3>
 
         <?php
         /**
          * La funcion obtenerDatos() recorre el objeto obtenido de la api y muestra 
          * el valor seleccionado
-         * @return null 
+         * @return null
          */
         function obtenerDatos()
         {
