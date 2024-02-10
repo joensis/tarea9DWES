@@ -34,7 +34,7 @@
     <?php
 
     //Se realiza la peticion a la api que nos devuelve el JSON con la información de los posts
-    $api = file_get_contents('https://jsonplaceholder.typicode.com/users');
+    $api = file_get_contents('users.json');
     //// Se decodifica el fichero JSON y se convierte a objeto
     $datos = json_decode($api);
     ?>
